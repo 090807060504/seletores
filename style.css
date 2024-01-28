@@ -1,0 +1,27 @@
+.destaque{
+    color: blue;
+}
+.bloco{
+    background-color: rgb(56, 56, 255);
+    width: fit-content;
+    color: white;
+}
+.sim{
+    color: rgb(68, 68, 255);
+}
+.final{
+    background-color: black;
+    text-align: center;
+    padding: 0%;
+}
+.color{
+    color: white;
+}
+main{
+    margin: 0 auto;
+    width: 900px;
+}
+
+
+    
+
