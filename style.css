@@ -1,3 +1,6 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
 .destaque{
     color: blue;
 }
@@ -5,21 +8,28 @@
     background-color: rgb(56, 56, 255);
     width: fit-content;
     color: white;
+    padding: 4px;
 }
-.sim{
+.destaque-texto{
     color: rgb(68, 68, 255);
 }
 .final{
     background-color: black;
     text-align: center;
-    padding: 0%;
+    padding: 0.1px;
 }
-.color{
+.rodape{
     color: white;
 }
 main{
     margin: 0 auto;
     width: 900px;
+}
+.título{
+    text-align: center;
+}  
+.subtítulo{
+    font-size: small;
 }
 
 
